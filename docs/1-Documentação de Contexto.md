@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Atualmente o transporte público apresenta falta de qualidade, entre os problemas estão: o preço alto das passagens, poucos veículos em circulação e um intervalo de tempo relativamente alto entre horários. Foi calculado em Novembro de 2021 que a quantidade de passageiros em Poços de Caldas varia entre 640 e 680 mil por mês. Assim, a criação de um aplicativo que auxiliasse a população com o uso do transporte público poderia poupar tempo de espera e evitar atrasos. A proposta seria prever e acompanhar os itinerários e alertar sobre possíveis atrasos acidentais.
 
 ## Problema
 No dia-a-dia muitas pessoas fazem a utilização do transporte público, seja para ir trabalhar, estudar, fazer compras, ou até mesmo para visitar algum familiar. Diante disso, podem surgir alguns problemas desconfortáveis devido a falta de informação. 
