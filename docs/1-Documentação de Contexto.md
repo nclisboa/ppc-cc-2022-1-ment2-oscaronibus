@@ -3,11 +3,13 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+No dia-a-dia muitas pessoas fazem a utilização do transporte público, seja para ir trabalhar, estudar, fazer compras, ou até mesmo para visitar algum familiar. Diante disso, podem surgir alguns problemas desconfortáveis devido a falta de informação. 
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+- O usuário poderá perder o transporte. Por conta, de não saber se está adiantado ou atrasado. Ocasionando assim, um atraso para o local aonde se deseja locomover;
+- Não ter um marcador de tempo médio gasto entre os pontos, pode fazer com que o usuário possa chegar atrasado ou adiantado no seu compromisso;
+- Poderá ocorrer algum imprevisto, como alguma interdição de via, acidente de trânsito, coisas que podem ocasionar atrasos.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+A aplicação poderá ser usada por usuários, empresas e motoristas. Para que, possa ter um monitoramento de horários, informar eventuais imprevistos e adversidades.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
