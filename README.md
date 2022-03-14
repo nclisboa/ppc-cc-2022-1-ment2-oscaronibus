@@ -7,9 +7,9 @@
 ## Integrantes
 
 - Lucca Pagin Barbosa Rios
-- Nicole Carvalho Lisboa
+- Nicole Carvalho Lisboa (35 98708 4113)
 - Vinícius de Oliveira Yoshioka
-- Leonardo Vilas Boas Mendes
+- Leonardo Vilas Boas Mendes (35 99978 2615)
 
 ## Professor
 
