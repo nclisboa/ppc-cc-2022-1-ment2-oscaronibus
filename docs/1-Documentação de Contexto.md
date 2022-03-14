@@ -24,10 +24,9 @@ Por causa disso, os clientes dos meios de transportes, se atrasam para compromis
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
+Segundo dados informados pelo IPEA, cerca de 44% da população brasileira depende do transporte público, incluindo ônibus. Em Poços, cerca de 650 mil pessoas utilizam o Circullare para ir à escola, trabalho ou atividades cotidianas.
+O uso do aplicativo atinge todas idades e classes dentro da cidade, desde que tenham acesso a internet. 
+Isso varia desde crianças que estão indo para aula ou até mesmo uma senhora que esta voltando para casa depois de um dia na casa de sua filha.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
