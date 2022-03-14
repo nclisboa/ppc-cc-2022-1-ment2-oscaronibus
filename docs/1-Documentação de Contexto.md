@@ -25,9 +25,3 @@ Por causa disso, os clientes dos meios de transportes, se atrasam para compromis
 Segundo dados informados pelo IPEA, cerca de 44% da população brasileira depende do transporte público, incluindo ônibus. Em Poços, cerca de 650 mil pessoas utilizam o Circullare para ir à escola, trabalho ou atividades cotidianas.
 O uso do aplicativo atinge todas idades e classes dentro da cidade, desde que tenham acesso a internet. 
 Isso varia desde crianças que estão indo para aula ou até mesmo uma senhora que esta voltando para casa depois de um dia na casa de sua filha.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
