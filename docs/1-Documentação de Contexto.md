@@ -12,10 +12,8 @@ No dia-a-dia muitas pessoas fazem a utilização do transporte público, seja pa
 A aplicação poderá ser usada por usuários, empresas e motoristas. Para que, possa ter um monitoramento de horários, informar eventuais imprevistos e adversidades.
 
 ## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Criação um aplicativo que informe com precisão os horários de chegada e partida dos ônibus, que seriam calculados a partir da distância de cada estação e da velocidade dos ônibus em sua trajetória.
+Como também ter uma forma de notificar os acidentes de trânsito, a todas as pessoas para que tenham consciência do atraso ou ausência de transporte.
  
 ## Justificativa
 
