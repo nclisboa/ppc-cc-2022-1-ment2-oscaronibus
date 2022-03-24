@@ -20,19 +20,10 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 Embora a AADV seja uma instituição voltada para a assistência aos deficientes visuais, o website não oferece nenhuma facilidade de acesso a esse púbico. Hoje uma pessoa com deficiência visual não consegue navegar pelos conteúdos da instituição disponível no site sem a ajuda de outra pessoa, pois não há ferramentas que possam proporcionar a experiência de navegação de forma auditiva, o que é essencial para essas pessoas. A ideia é fazer com que eles possam ter total acessibilidade à plataforma da AADV de forma autônoma, proporcionando uma experiência agradável e que faça jus ao principal lema da instituição, que é a de inclusão dos portadores de deficiência visual.
 
 ## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-Como objetivo
-
-O nosso objetivo é auxiliar os deficientes visuais no uso do WebSite da instituição AADV, de forma a melhorar a experiência do usuário, para isso precisaremos
- >Identificar as dificuldades dos usuários;
- >Integrar áudios de "TalkBack" para as opções do site; 
- >Adicionar opções de buscas por voz; 
+O objetivo geral do projeto é o desenvolvimento de um Website, aonde seja de fácil acessibilidade para todas as pessoas, especialmente para o nosso público-alvo. O uso do Website irá servir como forma de auxiliar os deficientes visuais, de forma a melhorar a experiência do usuário.
+ >Identificar as dificuldades que o site oferece para o usuário;
+ >Integrar áudios de "Talkback" para as opções do site; 
+ >Adicionar buscas por meio da voz; 
 
 
 ## Justificativa
