@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js">
+</script>
+<script>
+
+function myFunction()
+{
+   var myHrefCollection = '';
+   var myData;
+
+   jQuery.get('texto.txt', function(data) { 
+       myData = data.split("#");  
+       for (i = 0; i < myData.length; i++) {
+             if (myData[i] != null || myData[i] != undefined)  
+                  myHrefCollection += '<li>' + myData[i] + '</li>';  
+       }  
+
+       $("#h01").html (myHrefCollection);
+   });
+}
+$(document).ready(myFunction);
+
+</script>
+</head>
+<body>
+<h1 id="h01"></h1>
+</body>
+</html>

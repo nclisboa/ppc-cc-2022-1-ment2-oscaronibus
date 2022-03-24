@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="UTF8">
+	<title>AADV</title>
+</head>
+<style> 
+	.cabeçalho
+	{
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		padding-bottom: 10px;
+	}
+	.menu
+	{
+		text-align: right;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		padding-bottom: 10px;
+	}
+	.text
+	{
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		padding-bottom: 2px;
+		margin-right: 10px;
+		text-decoration: none;
+	}
+	.rodape
+	{	
+		text-align: center;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		position: fixed;
+		bottom: 0;
+		margin-left: 450px;
+		margin-bottom: 30px;
+	}
+	a:link{
+		font-size:10px;
+		display: inline-block;
+		color: black;
+		font-family: helvetica;
+		text-align: left;
+		width: 80%;
+		text-decoration:none;				
+	}
+
+	a:hover{
+			color: black; 
+	}
+				
+	a:visited{
+			color: black;
+	}
+		
+
+
+</style>
+<head>
+	<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js">
+	</script>
+	<script>
+
+		var myData, i=0, tam=0, sair=0;
+		var myHrefCollection = '';
+		
+		function myFunction()
+		{
+		
+			jQuery.get('texto_home.txt', function(data) {
+				myData = data.split("#");
+				
+				tam = myData.length;
+				myHrefCollection+='<H3>' + myData[i] + '</H3><br>';
+				i++;
+				myHrefCollection+="<li><A HREF= " + myData[i] + ">" + myData[i+1] + '</A></li>';
+				//Alterado aqui
+				i=i+2;
+				myHrefCollection+="<li><A HREF= " + myData[i] + ">" + myData[i+1] + '</A></li>';
+				//Alterado aqui
+				i=i+2;
+				myHrefCollection+="<li><A HREF= " + myData[i] + ">" + myData[i+1] + '</A></li>';
+				//Alterado aqui
+				i=i+2;
+				myHrefCollection+="<li><A HREF= " + myData[i] + ">" + myData[i+1] + '</A></li>';
+				//Alterado aqui
+				i=i+2;
+				myHrefCollection+="<li><A HREF= " + myData[i] + ">" + myData[i+1] + '</A></li>';
+				//Alterado aqui
+				i=i+2;
+
+				if (i<tam)
+					myHrefCollection+="<li><A HREF= " + myData[i] + ">" + myData[i+1] + '</A></li>';
+				else
+					sair=1;
+				if ( (i<tam) && (sair==0))
+					i=i+2;
+		
+				$("#h01").html (myHrefCollection);
+		
+			});
+		}
+		$(document).ready(myFunction);
+		
+		</script>
+</head>
+
+<body>
+	<div class=cabeçalho>
+	<h1>Orientações para beneficiários AADV</h1>
+	</div>
+	<div class = menu>
+		<h2><a href = "home/sobreaadv/index.html">Sobre a AADV</a></h2>
+		<h2>Sobre este site</h2> 
+	</div>
+	<div class="text">
+		<h1>Postagens: </h1>
+		<h4><p>Boas vindas ao site de suporte ATIVIDADES AADV! Acompanhe as categorias de postagens a seguir.
+		   Ou para ver a lista de todos os posts, clique aqui.</p></h4>
+		<h1>Categorias de postagens:</h1>
+		<h3 id="h01"></h3>
+	</div>
+	<div class = rodape> 
+		<h4>informações de contato: </h4>
+		<li>e-mail: aadv@aadv.com.br </li>
+	    <li>tel: (35) 3714-3807</li>
+		<li>Endereço: Rua Louis Braille, n° 85 - Residencial Paineiras - Poços de Caldas</li>
+	</div>
+</body>
+</html>

@@ -1,4 +1,4 @@
-# OscarÔnibus
+# Projeto de Continuidade do Site de Orientações a Deficientes Visuais da Instituição
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: MENTORING II`

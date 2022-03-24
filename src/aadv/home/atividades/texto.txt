@@ -1,0 +1,7 @@
+#Categorias de atividades
+#Braille
+#Orientação e Mobilidade
+#Expressão Corporal
+#Psicologia
+#Psicomotora Funcional
+#Geral
