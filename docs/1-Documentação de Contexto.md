@@ -39,15 +39,7 @@ A instituição AADV, tem como objetivo a integração das pessoas com deficiên
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
-
-O nosso público alvo serão de um único nicho, os usuários do site da instituição AADV com deficiência visual. 
+O público-alvo será a população brasileira que possui algum tipo de deficiência visual ou perda total da visão. 
+Em uma pesquisa realizada pelo IBGE em 2010, aproximadamente 18,6% da população alguma deficiência visual. Desse 
+total, 6,5 milhões têm deficiência visual grave, dos quais 506 mil têm perda total da visão (0,3% da população) e 6 milhões 
+têm grande dificuldade para enxergar (3,2%).Em um nicho mais específico, será os usuários do site da instituição AADV com deficiência visual.
