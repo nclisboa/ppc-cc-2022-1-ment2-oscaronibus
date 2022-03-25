@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- Lucca Pagin Barbosa Rios
+- Lucca Pagin Barbosa Rios (35 98845 4475)
 - Nicole Carvalho Lisboa (35 98708 4113)
 - Vinícius de Oliveira Yoshioka (35 9.8708-0092)
 - Leonardo Vilas Boas Mendes (35 99978 2615)
