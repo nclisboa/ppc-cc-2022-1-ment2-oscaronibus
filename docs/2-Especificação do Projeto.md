@@ -10,7 +10,7 @@ Camila Silva tem 09 anos, é uma criança com deficiência visual permanente. El
 
 Pedro Alves tem 23 anos, por conta de um infeliz acidente acabou parcialmente deficiente visual. Ele quer se adaptar e voltar a se integrar a sociedade, mas não tem meios e nem conhecimento. Além encontrar um ambiente que possa lhe fornecer melhores condições de acessibilidade.
 
-Luis Gomes tem 45 anos, é programador Front-End. Sempre busca ajudar o próximo com ações beneficientes e está em busca de instituições para apoiar, tanto como voluntário ou com doações.
+Camilo Rosário tem 45 anos, nasceu em São Paulo, e aos 12 foi diagnosticado com Retinite Pigmentosa que piorou com o passar dos anos. Teve a oportunidade de estudar no Instituto de Cegos Padre Chico e desenvolveu muitas habilidades que o ajudaram nas atividades diárias. Mudou-se para Poços depois de conhecer a esposa e hoje enfrenta dificuldades para morar em um espaço menos acessível com pouco conhecimento de como conviver em uma nova cidade.
 
 ## Histórias de Usuários
 
@@ -21,7 +21,7 @@ Luis Gomes tem 45 anos, é programador Front-End. Sempre busca ajudar o próximo
 | Pedro Alves        | Saber sobre a intituição                        | Verificar se essa instituição encaixa em meu ideais |
 | Pedro Alves        | Encontrar informações de contato/localidade     | Facilitar a comunicação com a intituição            |
 | Camila Silva       | Encontrar atividades oferecidas                 | Participar das atividades da instituição            |
-| Luis Gomes         | Contribuir para com a instituição               | Ser como um voluntário ou com doações               |
+| Camilo Rosário     | Encontrar serviços e sua localidade             | Participar da comunidade com facilidade             |
 
 
 ## Requisitos
