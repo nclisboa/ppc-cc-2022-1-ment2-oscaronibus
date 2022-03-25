@@ -61,3 +61,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| O site não pode contar com cores fortes demais ou muito fracas |
+|04| O site não pode conter imagens que tenham textos os cobrindo |
+
+
