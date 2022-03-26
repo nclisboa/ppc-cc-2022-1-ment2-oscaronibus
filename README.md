@@ -43,7 +43,6 @@
 
 # Contato
 
-- Local de trabalho
-- Nome
+- PUC Poços de Caldas
+- Will Ricardo dos Santos Machado
 - Interação semanal
-
