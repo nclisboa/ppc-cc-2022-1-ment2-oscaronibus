@@ -35,7 +35,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| mostrar a todo momento informações de contato. | ALTA | 
 |RF-002| O uso de cor deve apresentar um alto contraste.   | ALTA |
-|RF-003|No contraste proporção mínima recomendada de 4,5:1 para textos grandes e 7:1 para outros textos e imagens.  | MÉDIA |
+|RF-003| No contraste proporção mínima recomendada de 4,5:1 para textos grandes e 7:1 para outros textos e imagens.  | MÉDIA |
 |RF-004| Ter links informativos, por exemplo no link aparecer “meu perfil” em vez de “clique aqui”, ou o URL completo.   | MÉDIA |
 |RF-005| Ter texto grande e alinhado à esquerda.| ALTA | 
 |RF-006| Usar texto além da formatação, pois é possível que os leitores de tela não identifiquem negrito ou destaques.   | BAIXA |
@@ -62,6 +62,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 |03| O site não pode contar com cores fortes demais ou muito fracas |
-|04| O site não pode conter imagens que tenham textos os cobrindo |
+|04| O site não pode conter textos que cobrem o conteúdo de uma imagem |
+
 
 
