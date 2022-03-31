@@ -3,6 +3,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
- Seguindo uma linha de pesquisas, para usuários com deficiência visual e com baixa visão, adaptamos o site para ter uma paleta de cores mais suaves nas partes textuais e com cores vibrantes, para facíl diferênciação de cores, também usamos as cores da instituição para o design, colocamos os botões laterais para mudar a escala de cores de um fundo claro com letra escura para um de fundo escuro com letras mais claras a fim de facilitar o entendimento do texto, adicionamos também o botão para aumentar a fonte dos textos do site para os usuários de baixa visão conseguirem com maior facilidade entender o texto, também adicionamos vídeos as paginas para relatar o conteúdo apresentado em cada aba. 
+ Seguindo uma linha de pesquisas, para usuários com deficiência visual e com baixa visão, adaptamos o site para ter uma paleta de cores com contrastes entre textos e fundo, para facíl diferênciação de cores e melhor entendimento do conteúdo, também usamos as cores da instituição para o design, além de um botão que acessa opções extras como aumentar tamanho do texto e ativar modo escuro. 
+
  
-![exemplo de Layout](img/layout2.jpg)
+Layout 0.1
+![AADV-Layout 0 1](https://user-images.githubusercontent.com/76961793/161112002-85b4535b-018b-491f-a858-3fa1e54432cf.jpg)
+
