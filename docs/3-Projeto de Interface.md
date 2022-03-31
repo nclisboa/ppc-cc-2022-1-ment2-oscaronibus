@@ -9,3 +9,9 @@
 Layout 0.1
 ![AADV-Layout 0 1](https://user-images.githubusercontent.com/76961793/161112002-85b4535b-018b-491f-a858-3fa1e54432cf.jpg)
 
+Layout 0.2 
+![AADV-Layout0 2](https://user-images.githubusercontent.com/76961793/161139535-c3690fe1-33ac-4efb-8c35-d8d384891719.jpg)
+
+Layout Mobile 0.1
+![AADV-Layout MOBILE 0 1](https://user-images.githubusercontent.com/76961793/161139596-b446dc6a-a7f7-4a89-895a-7aecec2e37c8.jpg)
+
