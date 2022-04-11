@@ -32,8 +32,9 @@ Nicole Carvalho Lisboa -
 Vinícius de Oliveira Yoshioka - Desenvolvedor 
 
 ### Processo
-
-Primeiramente começamos com a interface, a parte mais importante para acessibilidade e garantimos que as cores, tamanhos e estilos usados na tela seriam os mais adequados para deficiências visuais.
+1. Começamos com a interface, a parte mais importante para acessibilidade e garantimos que as cores, tamanhos e estilos usados na tela seriam os mais adequados para deficiências visuais.
+2. Adicionar as funções principais para utilizar o site.
+3. Fazer um programa simples para a modificação feito por outros desenvolovedores da AADV.
 
 ### Ferramentas
 
