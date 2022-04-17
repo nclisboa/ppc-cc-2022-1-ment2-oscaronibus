@@ -26,15 +26,15 @@ etiquetas:
 
 ### Divisão de Papéis
 
-Leonardo Vilas Boas Mendes - Scrum Master
-Lucca Pagin Barbosa Rios - Design Gráfico
-Nicole Carvalho Lisboa - 
-Vinícius de Oliveira Yoshioka - Desenvolvedor 
+- Leonardo Vilas Boas Mendes - Scrum Master
+- Lucca Pagin Barbosa Rios - Design Gráfico
+- Nicole Carvalho Lisboa - 
+- Vinícius de Oliveira Yoshioka - Desenvolvedor 
 
 ### Processo
-1. Começamos com a interface, a parte mais importante para acessibilidade e garantimos que as cores, tamanhos e estilos usados na tela seriam os mais adequados para deficiências visuais.
+1. Começar com a interface, a parte mais importante para acessibilidade e garantir que as cores, tamanhos e estilos usados na tela serão os mais adequados para deficiências visuais.
 2. Adicionar as funções principais para utilizar o site.
-3. Fazer um programa simples para a modificação feito por outros desenvolovedores da AADV.
+3. Fazer um site simples, para que outros desenvolvedores da AADV possam realizar modificações.
 
 ### Ferramentas
 
