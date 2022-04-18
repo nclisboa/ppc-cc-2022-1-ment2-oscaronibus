@@ -8,7 +8,7 @@
 
 - Lucca Pagin Barbosa Rios (35 98845 4475)
 - Nicole Carvalho Lisboa (35 98708 4113)
-- Vinícius de Oliveira Yoshioka (35 9.8807-9295)
+- Vinícius de Oliveira Yoshioka (35 98807 9295)
 - Leonardo Vilas Boas Mendes (35 99978 2615)
 
 ## Professor
