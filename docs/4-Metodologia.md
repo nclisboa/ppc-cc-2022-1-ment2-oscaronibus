@@ -26,9 +26,9 @@ etiquetas:
 
 ### Divisão de Papéis
 
-- Leonardo Vilas Boas Mendes - Scrum Master
+- Nicole Carvalho Lisboa - Scrum Master
 - Lucca Pagin Barbosa Rios - Design Gráfico
-- Nicole Carvalho Lisboa - 
+- Leonardo Vilas Boas Mendes - Desenvolvedor
 - Vinícius de Oliveira Yoshioka - Desenvolvedor 
 
 ### Processo
