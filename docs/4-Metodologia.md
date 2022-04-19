@@ -34,7 +34,8 @@ etiquetas:
 ### Processo
 1. Começar com a interface, a parte mais importante para acessibilidade e garantir que as cores, tamanhos e estilos usados na tela serão os mais adequados para deficiências visuais.
 2. Adicionar as funções principais para utilizar o site.
-3. Fazer um site simples, para que outros desenvolvedores da AADV possam realizar modificações.
+3. Adicionar as categorias para que beneficiários possam se localizar na página.
+4. Fazer um site simples, para que outros desenvolvedores da AADV possam realizar modificações.
 
 ### Ferramentas
 
