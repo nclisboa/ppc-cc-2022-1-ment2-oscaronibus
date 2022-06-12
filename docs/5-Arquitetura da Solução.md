@@ -11,7 +11,7 @@ A partir desses arquivos Markdown:
 
 Os componentes que fazem parte da solução são apresentados na Figura 01.
 
-![Diagrama de Componentes](img/componentes.jpeg)
+![Diagrama de Componentes](img/componentes.png)
 <center>Figura 01 - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
