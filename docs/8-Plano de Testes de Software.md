@@ -9,4 +9,12 @@ Ao inserir conteúdo, é importante que no método usado para inserir dados seja
 -  Exibição de Conteúdo: 
 
 Ao exibir o conteúdo, o Markdown também será responsável pela saída dos arquivos armazenados no servidor, é importante que layouts com diferentes tipos de conteúdo e arquivos, sejam legíveis em todas as páginas, para a compreensão do usuário.  
+
+Para que o usuário possa acessar os conteúdos deve-se seguir os passos: 
+
+- O usuário deve achar a aba de beneficiários; 
+
+- Ler as orientações e seguir os passos; 
+
+- Acessar o link de inscrição; 
  
